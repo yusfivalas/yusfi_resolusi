@@ -2,3 +2,5 @@ Resolusi Tahun 2021
 - Konsisten mempelajari web development
 - Mengikuti Arkademy
 - Berlatih HTML, CSS, Javascript serta lbrary dan framework nya
+- Mengikuti webinar terkait Web Development
+- Membuat Personal Project
